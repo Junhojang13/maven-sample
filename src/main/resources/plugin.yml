@@ -1,0 +1,4 @@
+name: maven-sample
+version: '${project.version}'
+main: kr.junhojang125.mavensample.plugin.MavenSamplePlugin
+api-version: '1.20'
